@@ -1,0 +1,43 @@
+ <footer id="contact" class="bg-dark text-light pt-5">
+    <div class="container">
+      <div class="row gy-4">
+        <div class="col-md-3">
+          <h5 class="text-primary">Company</h5>
+          <ul class="list-unstyled">
+            <li><a class="btn btn-link p-0 text-light" href="#">About Us</a></li>
+            <li><a class="btn btn-link p-0 text-light" href="#">Contact</a></li>
+            <li><a class="btn btn-link p-0 text-light" href="#">Register</a></li>
+            <li><a class="btn btn-link p-0 text-light" href="#">Privacy</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <h5 class="text-primary">Contact</h5>
+          <p class="mb-1"><i class="fa fa-map-marker-alt me-2"></i>123 Dhanmondi, Dhaka, Bangladesh</p>
+          <p class="mb-1"><i class="fa fa-phone-alt me-2"></i>+880 1966 556600</p>
+          <p class="mb-1"><i class="fa fa-envelope me-2"></i>info@example.com</p>
+          <div class="mt-2">
+            <a class="btn btn-outline-light btn-social me-1" href="#"><i class="fab fa-facebook-f"></i></a>
+            <a class="btn btn-outline-light btn-social me-1" href="#"><i class="fab fa-twitter"></i></a>
+            <a class="btn btn-outline-light btn-social me-1" href="#"><i class="fab fa-instagram"></i></a>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <h5 class="text-primary">Opening</h5>
+          <p class="mb-1">Mon - Sat: 10:00 AM - 08:30 PM</p>
+          <p class="mb-1">Sun: 10:00 AM - 08:30 PM</p>
+        </div>
+        <div class="col-md-3">
+          <h5 class="text-primary">Newsletter</h5>
+          <p>Join our newsletter for updates.</p>
+          <form class="d-flex">
+            <input class="form-control me-2" type="email" placeholder="Email address" aria-label="Email address">
+            <button class="btn btn-primary" type="submit">Sign Up</button>
+          </form>
+        </div>
+      </div>
+
+      <div class="text-center py-4 mt-4 border-top border-secondary">
+        <small>&copy; FitTrack+ — All rights reserved.</small>
+      </div>
+    </div>
+  </footer>
